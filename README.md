@@ -20,11 +20,10 @@ I'm a Frontend developer and student
 
 [![linkedin](https://img.shields.io/badge/github-001?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisVZ485)
 
-[![linkedin](https://img.shields.io/badge/my_fiverr_profile-002?style=for-the-badge&logo=fiverr&logoColor=#1DBF73)](https://www.fiverr.com/velta_developer)
+[![Fiverr](https://img.shields.io/badge/my_fiverr_profile-002?style=for-the-badge&logo=fiverr&logoColor=#1DBF73)](https://www.fiverr.com/velta_developer)
 
 
 ## What am I doing?
 👩‍💻 I'm currently working on Fiverr
 
 🧠 and learning about PHP and Python
-
