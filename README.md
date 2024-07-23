@@ -8,7 +8,7 @@
 ## 🛠 Skills
 
 **Client:** React, TailwindCSS,
-Javascript, HTML, CSS, WordPress
+Javascript, HTML, CSS, WordPress, Photoshop, GIMP, C#
 
 
 ## 🚀 About Me
@@ -24,6 +24,6 @@ I'm a Frontend developer and student
 
 
 ## What am I doing?
-👩‍💻 I'm currently working on Fiverr
+👩‍💻 I'm currently working on Fiverr, Kwork and others
 
-🧠 and learning about PHP and Python
+🧠 and learning about MATLAB and Python
