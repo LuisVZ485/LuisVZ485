@@ -22,6 +22,7 @@ I'm a Frontend developer and student
 
 [![Fiverr](https://img.shields.io/badge/my_fiverr_profile-002?style=for-the-badge&logo=fiverr&logoColor=#1DBF73)](https://www.fiverr.com/velta_developer)
 
+[![Kwork](https://img.shields.io/badge/kwork-000?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.com/user/velta_developer)
 
 ## What am I doing?
 👩‍💻 I'm currently working on Fiverr, Kwork and others
