@@ -16,7 +16,7 @@ I'm a Frontend developer and student
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luisvz485.github.io/portfolio_LuisVelasquez/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luisvz485.github.io/portfolio-2026/)
 
 [![linkedin](https://img.shields.io/badge/github-001?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisVZ485)
 
@@ -27,4 +27,4 @@ I'm a Frontend developer and student
 ## What am I doing?
 👩‍💻 I'm currently working on Fiverr, Kwork and others
 
-🧠 and learning about MATLAB and Python
+🧠 and learning about cybersecurity and data
